@@ -8,4 +8,4 @@ Tema katmanlamasını cihaz tercihlerinin önüne çekemedim hocam. Bi de ayrıc
 
 https://expo.dev/accounts/meylitek/projects/karatahtaRN2/builds/a0d704a6-627c-4d08-90ba-ebfce513750c bu linkten apk dosyasını indirebilirsiniz.
 
-SRC dosyası içerisinde tüm önemli dosyalar var.
+SRC DOSYASI İÇERİSİNDE TÜM ÖNEMLİ DOSYALAR VAR
