@@ -1,6 +1,6 @@
 Sosyal Medya Uygulaması karatahtaRN 
 
-Telefon veya emülatör apk yı nerede kullanacaksanız cihazın açık temada olması gerekiyor. Açık tema olarak kullanırsanız uygulama içerisindeki manuel tema değişikliği butonu çalışıyor.
+Telefon veya emülatör apk yı nerede kullanacaksanız cihazın açık temada olması gerekiyor. Açık tema olarak kullanırsanız uygulama içerisindeki manuel tema değişikliğini tam olarak görebilirsiniz. AÇIK TEMA LÜTFEN
 
 Tema katmanlamasını cihaz tercihlerinin önüne çekemedim hocam. Bi de ayrıca Gönderi düzenlemesini de yapamadım ama çok gereksiz bir detaydı zaten.
 
